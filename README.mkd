@@ -1,0 +1,5 @@
+# verbal-inject
+Working prompt database to make or break AI models
+
+This repo will work both as a database and an archive for my tried and tested true prompts on different LLM models.
+Do not be mistaken same prompt can have multiple effect on multiple LLM models.
